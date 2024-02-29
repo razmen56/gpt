@@ -1,2 +1,2 @@
 # gpt
-gpt
+python GPT utils
